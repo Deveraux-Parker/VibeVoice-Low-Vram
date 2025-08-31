@@ -1,7 +1,7 @@
 These are some efforts toward running VibeVoice on lower vram systems.
 
 I've put up pre-quanitzed versions of the VibeVoice here:
-https://huggingface.co/Dannidee/VibeVoice7b-low-vram/upload/main
+https://huggingface.co/DevParker/VibeVoice7b-low-vram
 
 The 4 bit is about 6.6 gigabytes. 8 bit is about 10.6 gigabytes. You -should- be able to cram the 8 bit into 12gb vram as long as you're not running much overhead (GUI etc). It might be possible to barely fit and run the 4 bit on 8gb vram if you run almost headless).
 
