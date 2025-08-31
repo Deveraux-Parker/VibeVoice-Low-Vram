@@ -1,4 +1,4 @@
-These are some efforts toward running VibeVoice on lower vram systems.
+These are some efforts toward running VibeVoice (the larger 7b version, not the small 1.5b) on lower vram systems.
 
 I've put up pre-quanitzed versions of the VibeVoice here:
 https://huggingface.co/DevParker/VibeVoice7b-low-vram
